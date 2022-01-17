@@ -1,0 +1,3 @@
+# Project exclude paths
+/restful-api/.gradle/
+/restful-api/build/
